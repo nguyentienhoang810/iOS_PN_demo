@@ -1,0 +1,13 @@
+{
+    "Simulator Target Bundle": "com.hoang.pushdemo",
+
+    "aps": {
+      "alert": {
+          "title": "Beautiful View",
+          "subtitle": "suusus",
+          "body": "Denali Alaska"
+      },
+      "mutable-content": true
+    },
+    "attachment-url": "https://s3.ap-southeast-1.amazonaws.com/image-dev.thegrandlibrary.com/PostImage/1626491593876_1626491593875.png"
+}
